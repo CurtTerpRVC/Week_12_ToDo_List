@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459309459350",
+    "project_id": "week-12-todo-list",
+    "storage_bucket": "week-12-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459309459350:android:ee4c5362d3e09c8d405fb7",
+        "android_client_info": {
+          "package_name": "edu.rockvalleycollege.week12todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459309459350-llsaa3c44vojsf25uhc1hdv89mejh3hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAolExI3fwAeFI2tF2_VVb-P4xhlUSZ6Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459309459350-llsaa3c44vojsf25uhc1hdv89mejh3hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
